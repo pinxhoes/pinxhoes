@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🎨 I’m a web3 illustrator
-- 🌱 currently learning as Full Stack Dev
+- 🎨 Web3 illustrator
+- 🌱 Web2 Full Stack Dev
 
